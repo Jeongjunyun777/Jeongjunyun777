@@ -1,4 +1,4 @@
-## 안녕하십니까 C0ngYun입니다 👋
+## C0ngYun👋
 
 <a href="https://github.com/devxb/gitanimals">
   
@@ -9,5 +9,5 @@
 />
 </a>"
   
-  />
+
 </a>
