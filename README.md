@@ -1,5 +1,9 @@
 ## C0ngYun👋
 
+
+[![Velog Stats](https://velog‑readme‑stats.vercel.app/api?name=congyun)](https://velog.io/@congyun)
+
+
 <a href="https://github.com/devxb/gitanimals">
   
 <img
