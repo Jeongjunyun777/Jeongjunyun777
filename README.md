@@ -1,6 +1,7 @@
 ## C0ngYun👋
 
-![header](https://capsule-render.vercel.app/api?type=soft-rounded&color=green&height=120&section=header&text=안녕하세요%20congyun%20입니다&fontSize=40&animation=fade&icon=🐣)
+![header](https://capsule-render.vercel.app/api?type=soft&color=green&height=120&section=Hello%20I'm%20congyun&fontSize=40&animation=fade&icon=🐣)
+
 
 ### 📝 Velog 최신 글
 
