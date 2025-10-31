@@ -1,8 +1,7 @@
 ## C0ngYun👋
 
 ### 📝 Velog
-[![Velog](https://velog-readme-stats.vercel.app/api?name=congyun&color=green)](https://velog.io/@congyun)
-
+![header](https://capsule-render.vercel.app/api?type=soft&color=green&height=120&section=Hello%20I'm%20congyun&fontSize=40&animation=fade&icon=🐣)
 
 
 ### 📝 Velog 최신 글
